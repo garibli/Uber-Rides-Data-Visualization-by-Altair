@@ -1,6 +1,6 @@
 # Multiview Visualisation of Uber Ride Booking Behaviour Data
 
-This repository contains our group project for the Information Visualization course.  
+This repository contains a project for Information Visualization.  
 The project explores Uber ride booking behaviour using three interactive multiview systems built with Python and Altair.
 
 ## Project Overview
@@ -116,14 +116,3 @@ Summary of findings:
 - Pandas
 - Jupyter Notebook
 
-## Team Members
-
-- Fuad Garibli
-- Hanjing Tao
-- Yoggy Zhang
-- Illia Zvezdin
-- Shubham Sharma
-
-## Course Context
-
-This project was completed as part of an Information Visualization group assignment focused on multiview visualisation, coordinated views, interaction design, and evaluation.
